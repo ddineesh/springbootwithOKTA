@@ -1,4 +1,4 @@
-This repo has the working the OKTA 2 implementation with Spring boot security starter.
+This repo has the working code for OKTA 2 implementation with Spring boot security starter.
 
 All the steps you can find below
  
